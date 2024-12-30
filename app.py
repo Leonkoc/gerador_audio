@@ -1,6 +1,6 @@
-from flask import Flask, request, send_file
-from flask import Flask, render_template
-import edge_tts # type: ignore
+from flask import Flask, request, send_file, render_template
+from urllib.parse import quote  # Remove a importação do werkzeug.urls
+import edge_tts  # type: ignore
 import asyncio
 
 app = Flask(__name__)
