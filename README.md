@@ -82,3 +82,14 @@ Se você deseja contribuir para o projeto, siga os passos abaixo:
 * Faça as alterações e commit (git commit -am 'Adicionando nova feature').
 * Envie para a branch principal (git push origin minha-feature).
 * Abra um pull request.
+
+### 6. Contato
+
+[<img src="https://avatars.githubusercontent.com/u/64026100?v=4" width=115> <br> <sub>Leon Ortega</sub>](https://github.com/Leonkoc)
+<br>
+Caso tenha alguma dúvida ou sugestão, por favor entre em contato via [email](mailto:leonkoc@hotmail.com).
+
+<div>
+  <a href="https://www.linkedin.com/in/leon-ortega-cerqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
